@@ -5,8 +5,6 @@ import Phaser from 'phaser'
 import BootState from './states/Boot'
 import SplashState from './states/Splash'
 import GameState from './states/Game'
-import actionCable from 'actioncable'
-
 
 import config from './config'
 
